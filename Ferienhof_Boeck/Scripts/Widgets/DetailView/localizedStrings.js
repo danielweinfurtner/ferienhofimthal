@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Back to Album']='Zurück zum Album';strings['Download']='Download';strings['Previous']='Zurück';strings['Next']='Weiter';strings['Play Slideshow']='Diashow vorführen';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();
