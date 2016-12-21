@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Subscribe']='Abonnieren';strings['Back to Index']='Zurück zum Index';strings['Add Photo']='Foto hinzufügen';strings['Play Slideshow']='Diashow vorführen';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();
