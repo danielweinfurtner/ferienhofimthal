@@ -35,15 +35,7 @@
   <updated>2016-02-07T22:57:22.003+01:00</updated>
   <content>Fotos</content>
  </entry>
- <entry>
-  <id>urn:iweb:EF6EED3E-FA03-434E-B7EC-693E7EB65B0E</id>
-  <title>Freizeit</title>
-  <title xmlns="urn:iweb:">Freizeit</title>
-  <in-navbar xmlns="urn:iweb:">EF6EED3E-FA03-434E-B7EC-693E7EB65B0E</in-navbar>
-  <link rel="alternate" href="Freizeit.html"/>
-  <updated>2016-02-07T22:57:22.004+01:00</updated>
-  <content>Freizeit</content>
- </entry>
+ <--! HIER WAR FREIZEIT -->
  <entry>
   <id>urn:iweb:28C5F534-12C6-41FB-BFCD-A0A3BE5331B1</id>
   <title>Kontakt</title>
