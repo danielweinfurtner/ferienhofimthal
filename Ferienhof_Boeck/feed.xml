@@ -20,7 +20,7 @@
  <entry>
   <id>urn:iweb:AC4DFC2F-6159-4C92-9130-5D510B4FB1FD</id>
   <title>Wohnungen</title>
-  <title xmlns="urn:iweb:">Wohnungen</title>
+  <title xmlns="urn:iweb:">Ferienwohnung</title>
   <in-navbar xmlns="urn:iweb:">AC4DFC2F-6159-4C92-9130-5D510B4FB1FD</in-navbar>
   <link rel="alternate" href="Wohnungen.html"/>
   <updated>2016-02-07T22:57:22.002+01:00</updated>
